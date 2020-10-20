@@ -17,3 +17,17 @@
 * Keep it short and simple
 * Single level of abstraction
 
+### 08.10.18 - Programming Principles (Briem)
+* GRASP
+  * Low Coupling
+  * High Cohesion
+  * Information Expert
+  * Creator
+  * Indirection
+  * Polymorphism
+  * Controller
+  * Pure Fabrication
+  * Protected Variations
+* Don't Repeat Yourself
+* You ain't gonna need it
+* Conway's Law
