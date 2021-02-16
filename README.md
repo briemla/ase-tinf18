@@ -6,7 +6,7 @@
 1. Mirko Dostmann
 
 ## Inhalt
-### 29.09.19 - Programming Principles (Briem)
+### 29.09.20 - Programming Principles (Briem)
 * SOLID
   * Single Responsibility
   * Open Closed
@@ -17,7 +17,7 @@
 * Keep it short and simple
 * Single level of abstraction
 
-### 08.10.18 - Programming Principles (Briem)
+### 08.10.20 - Programming Principles (Briem)
 * GRASP
   * Low Coupling
   * High Cohesion
@@ -31,3 +31,11 @@
 * Don't Repeat Yourself
 * You ain't gonna need it
 * Conway's Law
+
+### 22.10.20 - Entwurfsmuster
+* Einführung
+* Einteilung
+* Dekorierer
+* Erbauer
+* Kompositum
+* Strategie
